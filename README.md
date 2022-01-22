@@ -17,4 +17,4 @@ Automate the world with the easiest GUI web scraping and automation application.
 I do not know exactly what this is. But I can tell you what it is not. It is not a botnet, it is not an exploitation/post-exploitation tool, it is not to play with.
 
 # ZeroHour
-An experimental security worm just for fun.
+An experimental multiplatform worm just for fun.
